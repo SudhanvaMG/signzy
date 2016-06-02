@@ -1,2 +1,4 @@
 # signzy
 assignment
+
+run : node .
