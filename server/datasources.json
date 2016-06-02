@@ -1,0 +1,11 @@
+{
+  "topblogger": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "topblogger",
+    "username": "",
+    "password": "",
+    "name": "topblogger",
+    "connector": "mongodb"
+  }
+}
